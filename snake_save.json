@@ -1,0 +1,51 @@
+{
+  "best": {
+    "Maze-Hard": 180,
+    "Chaos-Normal": 90
+  },
+  "top": {
+    "Maze-Hard": [
+      [
+        180,
+        "2026-09-30"
+      ],
+      [
+        110,
+        "2026-09-30"
+      ],
+      [
+        10,
+        "2026-09-30"
+      ]
+    ],
+    "Chaos-Normal": [
+      [
+        90,
+        "2026-09-30"
+      ]
+    ]
+  },
+  "achievements": [
+    "first_bite",
+    "portal",
+    "ghost_run"
+  ],
+  "total_apples": 15,
+  "games": 6,
+  "stats": {
+    "play_ms": 105458,
+    "longest": 10,
+    "mice": 1,
+    "spiders": 0,
+    "quests": 1,
+    "portals": 2,
+    "bombs": 0
+  },
+  "settings": {
+    "mode": 5,
+    "diff": 1,
+    "theme": 1,
+    "skin": 3,
+    "audio": 3
+  }
+}
